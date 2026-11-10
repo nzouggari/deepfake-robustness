@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.safetensors
+data/
+runs/
+results/
+weights/
+GenD/
+.ipynb_checkpoints/
