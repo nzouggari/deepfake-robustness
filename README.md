@@ -1,5 +1,7 @@
 # Anchored adversarial fine-tuning delays but does not prevent low-frequency attacks on deepfake detectors and spectral sentinels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24133466.svg)](https://doi.org/10.5281/zenodo.24133466)
+
 Code, weights and evaluation protocol of the paper submitted to the *Journal of Information Security and Applications*.
 
 We evaluate under which conditions generalizable deepfake detectors and their defenses withstand a white-box attacker. The system combines:
@@ -113,5 +115,17 @@ The code is released under the MIT license. The weights are released for non-com
   journal = {Journal of Information Security and Applications},
   note    = {Under review},
   year    = {2026}
+}
+```
+
+Code and weights (release v1.0):
+
+```bibtex
+@software{idrissizouggari2026code,
+  author    = {Idrissi Zouggari, Nadia and Radouane, Mohamed and Merzouk, Safaa},
+  title     = {deepfake-robustness: code and weights, v1.0},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.24133466}
 }
 ```
